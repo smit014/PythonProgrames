@@ -1,3 +1,7 @@
+"""Grocery List Total: Given a dictionary of grocery items and their prices,
+calculate the total cost of a shopping list."""
+
+
 def AddtoCart():
     while True:
         Check = input("Want to add  item(y/n): ")
